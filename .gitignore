@@ -1,0 +1,6 @@
+bin/*
+obj/*
+.vs/*
+packages/*
+TicTacToeTests/bin/*
+TicTacToeTests/obj/*
